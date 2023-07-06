@@ -28,3 +28,11 @@ h1 {
     -webkit-text-stroke-color: yellow;
     text-shadow: 2px 1px #292929;
 }
+
+#deadpoolText {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 3em;
+    margin: 0;
+    text-transform: uppercase;
+    color:crimson;
+}
